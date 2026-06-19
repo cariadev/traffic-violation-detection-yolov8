@@ -40,7 +40,6 @@ python detection.py
 ```bash
 streamlit run app.py
 ```
-Truy cập: http://localhost:8501
 
 ---
 
