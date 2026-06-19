@@ -1,0 +1,8 @@
+# requirements.txt
+ultralytics>=8.0
+easyocr>=1.7
+opencv-python>=4.8
+streamlit>=1.32
+plotly>=5.18
+pandas>=2.0
+numpy>=1.24
